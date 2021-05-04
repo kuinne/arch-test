@@ -1,6 +1,7 @@
 <template>
   <div id="app">
     vue2 template
+    <div style="color:red">test</div>
   </div>
 </template>
 
